@@ -1,0 +1,29 @@
+html {
+    overflow-y: scroll;
+}
+
+header {
+    background: white;
+    align-items: center;
+    display: inline-flex;
+    flex-direction: row;
+    height: 10vh;
+    width: 100vw;
+    max-width: 100%;
+    justify-content: flex-end;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
+button {
+    align-items: stretch;
+    background: none;
+    padding: 0;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    font-size: 36px;
+    font-family: 'Roboto';
+    margin-right: 5%;
+}
