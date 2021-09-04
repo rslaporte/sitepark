@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/sitepark/static/css/main.40aa3859.chunk.css",
+    "main.js": "/sitepark/static/js/main.4f7a044b.chunk.js",
+    "main.js.map": "/sitepark/static/js/main.4f7a044b.chunk.js.map",
+    "runtime-main.js": "/sitepark/static/js/runtime-main.24f5b851.js",
+    "runtime-main.js.map": "/sitepark/static/js/runtime-main.24f5b851.js.map",
+    "static/js/2.8b5bc073.chunk.js": "/sitepark/static/js/2.8b5bc073.chunk.js",
+    "static/js/2.8b5bc073.chunk.js.map": "/sitepark/static/js/2.8b5bc073.chunk.js.map",
+    "index.html": "/sitepark/index.html",
+    "static/css/main.40aa3859.chunk.css.map": "/sitepark/static/css/main.40aa3859.chunk.css.map",
+    "static/js/2.8b5bc073.chunk.js.LICENSE.txt": "/sitepark/static/js/2.8b5bc073.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24f5b851.js",
+    "static/js/2.8b5bc073.chunk.js",
+    "static/css/main.40aa3859.chunk.css",
+    "static/js/main.4f7a044b.chunk.js"
+  ]
+}
