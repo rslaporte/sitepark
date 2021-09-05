@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/sitepark/static/css/main.4c1290b9.chunk.css",
-    "main.js": "/sitepark/static/js/main.771d1e4d.chunk.js",
-    "main.js.map": "/sitepark/static/js/main.771d1e4d.chunk.js.map",
+    "main.js": "/sitepark/static/js/main.895d5ff6.chunk.js",
+    "main.js.map": "/sitepark/static/js/main.895d5ff6.chunk.js.map",
     "runtime-main.js": "/sitepark/static/js/runtime-main.24f5b851.js",
     "runtime-main.js.map": "/sitepark/static/js/runtime-main.24f5b851.js.map",
-    "static/js/2.0aa4053a.chunk.js": "/sitepark/static/js/2.0aa4053a.chunk.js",
-    "static/js/2.0aa4053a.chunk.js.map": "/sitepark/static/js/2.0aa4053a.chunk.js.map",
+    "static/js/2.b68c2b38.chunk.js": "/sitepark/static/js/2.b68c2b38.chunk.js",
+    "static/js/2.b68c2b38.chunk.js.map": "/sitepark/static/js/2.b68c2b38.chunk.js.map",
     "index.html": "/sitepark/index.html",
     "static/css/main.4c1290b9.chunk.css.map": "/sitepark/static/css/main.4c1290b9.chunk.css.map",
-    "static/js/2.0aa4053a.chunk.js.LICENSE.txt": "/sitepark/static/js/2.0aa4053a.chunk.js.LICENSE.txt",
+    "static/js/2.b68c2b38.chunk.js.LICENSE.txt": "/sitepark/static/js/2.b68c2b38.chunk.js.LICENSE.txt",
     "static/media/butters.png": "/sitepark/static/media/butters.e22d4995.png",
     "static/media/cartman.png": "/sitepark/static/media/cartman.cfb9591c.png",
     "static/media/celebrities.png": "/sitepark/static/media/celebrities.c3aa6e0d.png",
@@ -25,8 +25,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.24f5b851.js",
-    "static/js/2.0aa4053a.chunk.js",
+    "static/js/2.b68c2b38.chunk.js",
     "static/css/main.4c1290b9.chunk.css",
-    "static/js/main.771d1e4d.chunk.js"
+    "static/js/main.895d5ff6.chunk.js"
   ]
 }
