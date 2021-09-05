@@ -1,12 +1,12 @@
 .title {
     display: flex;
-    align-items: center;
+    align-content: center;
     justify-content: center;
     text-align: center;
+    padding-bottom: 5%
 }
 
 .pageTitle {
-    margin-top: 3%;
     text-align: center;
     font-family: Wellfleet;
     /*font-size: 72px;*/

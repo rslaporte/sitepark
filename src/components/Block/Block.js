@@ -4,7 +4,8 @@ import './Block.css'
 export default function Block(props) {
 
     const flexDirection = props.reverse ? 'row-reverse' : 'row'
-    const {text, url} = blocksData[props.title]
+    const {text, img} = blocksData[props.title]
+    const imgUrl = require(`../../assets/img/${img}`).default
 
     const style = {
         'height': props.height,
@@ -27,9 +28,9 @@ export default function Block(props) {
 
     return (
         <div className='block' style={style}>
-            <img className='img-block' alt={props.title} src={url} style={handleImgStyle(props)}/>
+            <img className='img-block' alt={props.title} src={imgUrl} style={handleImgStyle(props)}/>
             <div className='text-block'>
-                <span className='title'>{props.title}</span>
+                <span className='block-title'>{props.title}</span>
                 <span className='text'>{text}</span>
             </div>
         </div>

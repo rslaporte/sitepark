@@ -16,7 +16,7 @@ header {
     z-index: 1;
 }
 
-button {
+.header-button {
     align-items: stretch;
     background: none;
     padding: 0;
